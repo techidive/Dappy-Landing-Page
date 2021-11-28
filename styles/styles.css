@@ -1,5 +1,7 @@
 *{
     font-family: 'Montserrat', sans-serif;
+    color:#1F2431;
+
 }
 /* header css */
 .heading-header{
@@ -12,6 +14,11 @@ font-weight: 700!important;
     color: #82899B!important;
 
 }
+.nav-item{
+    color:#1F2431!important;
+    
+}
+
 @media only screen and (max-width: 600px) {
     .heading-header{
         font-family: 'Montserrat', sans-serif!important;
