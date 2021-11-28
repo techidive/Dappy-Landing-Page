@@ -12,3 +12,30 @@ font-weight: 700!important;
     color: #82899B!important;
 
 }
+@media only screen and (max-width: 600px) {
+    .heading-header{
+        font-family: 'Montserrat', sans-serif!important;
+        font-size: 36px!important;
+        font-weight: 700!important;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+        .heading-para{
+            font-size:16px!important;
+            color: #82899B!important;
+            text-align: center!important;
+            margin-left: auto !important;
+            margin-right: auto !important;
+            display: flex!important;
+            justify-content: center!important;
+            align-items: center!important;
+            text-align: center!important;
+        
+        }
+        .head-img{
+            display: flex!important;
+            align-items: center!important;
+        }
+}
