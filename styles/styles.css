@@ -1,4 +1,14 @@
 *{
     font-family: 'Montserrat', sans-serif;
 }
+/* header css */
+.heading-header{
+font-family: 'Montserrat', sans-serif!important;
+font-size: 36px!important;
+font-weight: 700!important;
+}
+.heading-para{
+    font-size:16px!important;
+    color: #82899B!important;
 
+}
