@@ -62,7 +62,20 @@
   
     color: #1f2431;
   }
-  
+  .footer-heading{
+    font-weight:bold!important;
+  }
+  .btn-subs{
+    box-shadow: none!important;
+    border:none!important;
+    outline:none!important;
+    
+  }
+  .search-box{
+    box-shadow: none!important;
+    border:1px solid grey!important;
+    outline:none!important;
+  }
   @media only screen and (max-width: 600px) {
     .heading-header {
       font-family: "Montserrat", sans-serif !important;
@@ -114,7 +127,14 @@
         text-align: center;
     }
     .btn-subs{
-        margin: auto!important;
-        margin-top:5px !important;;
+      box-shadow: none!important;
+      border:none!important;
+      outline:none!important;
+      
+    }
+    .search-box{
+      box-shadow: none!important;
+      border:1px solid grey!important;
+      outline:none!important;
     }
   }
